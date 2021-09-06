@@ -1,4 +1,6 @@
 # Bike Sharing Prediction
+![download](https://user-images.githubusercontent.com/65587451/132233655-3e8626e8-d23f-4fb8-8e14-af11b48ef933.png)
+
 
 ### INTRODUCTION <br>
 Bike-sharing systems are a new generation of traditional bike rentals where the whole process from membership, rental and return back has become automatic. Through these systems, the user is able to easily rent a bike from a particular position and return back to another position. Today, there exists great interest in these systems due to their important role in traffic, environmental, and health issues. <br>
